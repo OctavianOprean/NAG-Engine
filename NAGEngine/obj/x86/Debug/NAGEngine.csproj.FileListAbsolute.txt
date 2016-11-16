@@ -1,0 +1,26 @@
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\bin\WindowsGL\Debug\NAGEngine.exe
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\bin\WindowsGL\Debug\NAGEngine.pdb
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\bin\WindowsGL\Debug\Lidgren.Network.dll
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\bin\WindowsGL\Debug\MonoGame.Framework.dll
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\bin\WindowsGL\Debug\OpenTK.dll
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\bin\WindowsGL\Debug\Tao.Sdl.dll
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.csprojResolveAssemblyReference.cache
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.exe
+F:\Uni\Game Design and Engeneering\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.pdb
+E:\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.exe
+E:\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.pdb
+E:\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.csprojResolveAssemblyReference.cache
+E:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\NAGEngine.exe
+E:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\NAGEngine.pdb
+I:\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.exe
+I:\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.pdb
+I:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\NAGEngine.exe
+I:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\NAGEngine.pdb
+I:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\Lidgren.Network.dll
+I:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\MonoGame.Framework.dll
+I:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\OpenTK.dll
+I:\NAGEngine\NAGEngine\bin\WindowsGL\Debug\Tao.Sdl.dll
+I:\NAGEngine\NAGEngine\obj\x86\Debug\NAGEngine.csprojResolveAssemblyReference.cache
+D:\gmae\NAGEngine\obj\x86\Debug\NAGEngine.exe
+D:\gmae\NAGEngine\obj\x86\Debug\NAGEngine.pdb
+D:\gmae\NAGEngine\obj\x86\Debug\NAGEngine.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+speed=0.5
+x=250
+y=250
+powerLevel=90000.01
